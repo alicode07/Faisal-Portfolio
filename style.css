@@ -1,0 +1,9 @@
+ul,li,a{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    margin: 6px;
+    padding: 4px 6px;
+    background-color: aqua;
+  
+}
